@@ -1,3 +1,3 @@
 # Olá mundo 
-Primeiro repositório, criado durante aula para aprendizado
+Primeiro repositório, criado durante aula, para aprendizado
 
